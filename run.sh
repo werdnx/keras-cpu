@@ -1,0 +1,1 @@
+docker run -it -p 2222:22 -v /home/werdn/frd:/root/frd keras-1
